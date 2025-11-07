@@ -1,8 +1,8 @@
 .cuadro{
-    background-color: rgb(226, 43, 43);
+    background-color: rgb(183, 43, 226);
     width: 100px;
     height: 100px;
     margin: 10px;
-    border-radius: 10px;
+    border-radius: 50%;
 
 }
